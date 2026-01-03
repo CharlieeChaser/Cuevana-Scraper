@@ -5,3 +5,4 @@ lxml==4.9.0
 stremio-addon-sdk==0.1.14
 python-dotenv==1.0.0
 cloudscraper==1.2.71
+gunicorn
